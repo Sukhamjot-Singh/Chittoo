@@ -1,4 +1,7 @@
 # Chittoo2
+![1](https://user-images.githubusercontent.com/56192331/150503214-5131d4f0-b9a9-4d2e-b435-2c4909418043.png)
+![2](https://user-images.githubusercontent.com/56192331/150503223-22698713-7f08-4240-9076-39826e443608.png)
+![3](https://user-images.githubusercontent.com/56192331/150503228-ef1b1aed-288a-4d5d-a9db-7c1baf030ad5.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
 
